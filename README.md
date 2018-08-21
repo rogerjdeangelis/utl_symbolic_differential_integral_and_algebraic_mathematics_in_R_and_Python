@@ -1,0 +1,2 @@
+# utl_symbolic_differential_integral_and_algebraic_mathematics_in_R_and_Python
+Symbolic differential, integral and algebraic mathematics in Python.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
